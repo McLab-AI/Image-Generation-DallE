@@ -1,4 +1,4 @@
-# Image-Generation-WebApp-DallE
+# Image-Generation WebApp
 building an simple Image Generation web app using Dall-E and Streamlit framework
 
 # Setup Dependency
